@@ -3,7 +3,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
-//Program to get the longest word from an input sentence.
+
+// Get the longest word from an input string algorithm.
 
 int longest_word(char *txt) 
 {
